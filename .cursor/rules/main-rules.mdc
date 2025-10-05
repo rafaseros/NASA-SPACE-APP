@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+ejecuta npm run build cuando termines de editar para ver si se generaron errores
+
+NUNCA EJECUTES npm run dev
